@@ -24,4 +24,4 @@ You can see a live demo of this Drum Kit [here](https://kartikg1809.github.io/Dr
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/js-drum-kit.git
+   git clone https://github.com/kartikg1809/Drum_Kit.git
