@@ -11,7 +11,7 @@ This is a simple interactive drum kit built using HTML, CSS, and JavaScript. Whe
 
 ## Demo
 
-You can see a live demo of this Drum Kit [here](https://your-demo-url.com).
+You can see a live demo of this Drum Kit [here]([https://kartikg1809.github.io/Drum_Kit/]).
 
 ## Features
 
